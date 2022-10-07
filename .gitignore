@@ -1,2 +1,6 @@
 # Project exclude paths
 /target/
+/.idea/
+/Spark-Data-Engg.iml
+/tmp/
+/raw_data/
