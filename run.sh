@@ -1,4 +1,5 @@
 #!/bin/sh
 
-java -jar ./Spark-Data-Engg-1.0-SNAPSHOT-jar-with-dependencies.jar "$@"
-tail -f /dev/null
+echo Running [java -cp ./Spark-Data-Engg-1.0-SNAPSHOT-jar-with-dependencies.jar "$@" ] ...
+
+java -cp ./Spark-Data-Engg-1.0-SNAPSHOT-jar-with-dependencies.jar "$@"

@@ -111,7 +111,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        com.learning.sparkdataengg.chapter3.DailyStockUploaderJob
+                                        com.learning.sparkdataengg.setup.SetupPrerequisites
                                     </mainClass>
                                 </manifest>
                             </archive>
